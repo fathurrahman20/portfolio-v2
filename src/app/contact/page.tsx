@@ -108,9 +108,7 @@ export default function Contact() {
               <FaPhone className="h-6 w-6 text-primary" />
               <div>
                 <h3 className="font-semibold">Phone</h3>
-                <a
-                  href="tel:+1234567890"
-                  className="text-secondary hover:text-primary">
+                <a href="#" className="text-secondary hover:text-primary">
                   +62 877-8710-8086
                 </a>
               </div>
