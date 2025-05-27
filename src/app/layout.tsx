@@ -45,7 +45,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "Fathurrahman | Frontend Web Developer dari SMK Plus Pagelaran",
     description:
-      "Kenali Fathurrahman, seorang Frontend Web Developer berbakat lulusan SMK Plus Pagelaran. Telusuri portofolio dan proyek-proyek menarik yang pernah dikerjakan.",
+      "Kenali Fathurrahman, seorang Frontend Web Developer berbakat lulusan SMK Plus Pagelaran, Frontend Web Developer lulusan Binar Academy, Frontend Web Developer lulusan Universitas Bina Sarana Informatika, FullStack Web Developer lulusan Bearmentor dan Wahidev. Telusuri portofolio dan proyek-proyek menarik yang pernah dikerjakan.",
     url: "https://ffathur.my.id",
     siteName: "Fathurrahman | Frontend Developer",
     images: [
