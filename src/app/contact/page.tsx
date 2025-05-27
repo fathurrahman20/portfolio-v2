@@ -46,6 +46,7 @@ export default function Contact() {
       setStatus("success");
       setFormData({ name: "", email: "", title: "", message: "" });
     } catch (error) {
+      console.log(error);
       setStatus("error");
     } finally {
       setTimeout(() => setStatus("idle"), 5000);
