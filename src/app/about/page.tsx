@@ -57,7 +57,7 @@ export default function About() {
               {/* <li>Vue</li> */}
               <li>TypeScript</li>
               <li>React Query</li>
-              <li>Redux (Beginner)</li>
+              <li>Redux</li>
               <li>Shadcn UI</li>
               <li>Chakra UI</li>
               <li>Tailwind CSS</li>
@@ -77,7 +77,7 @@ export default function About() {
               <li>Bun</li>
               <li>Hono</li>
               <li>Express</li>
-              <li>Laravel (Beginner)</li>
+              <li>Laravel</li>
               <li>PostgreSQL</li>
               <li>MySQL</li>
               <li>MongoDB</li>
@@ -149,10 +149,10 @@ export default function About() {
             variants={fadeInUp}
             {...cardHoverSmall}>
             <h3 className="text-xl font-semibold mb-2">
-              Full Stack Web Developer
+              Full Stack Web Development Trainee
             </h3>
             <p className="text-primary mb-2">
-              Bearmentor • Aug 2024 – Apr 2025
+              Bearmentor • Oct 2024 – Apr 2025
             </p>
             <ul className="text-secondary list-disc list-inside space-y-2">
               <li>
@@ -166,6 +166,33 @@ export default function About() {
               <li>Created and documented RESTful APIs using Scalar</li>
               <li>
                 Used Docker for containerizing and deploying backend services
+              </li>
+            </ul>
+          </motion.div>
+
+          <motion.div
+            className="bg-white dark:bg-dark/50 p-6 rounded-lg shadow-md"
+            variants={fadeInUp}
+            {...cardHoverSmall}>
+            <h3 className="text-xl font-semibold mb-2">
+              Frontend Web Developer
+            </h3>
+            <p className="text-primary mb-2">
+              Widya Robotics • Aug 2023 – Dec 2023 • Sleman, Yogyakarta
+            </p>
+            <ul className="text-secondary list-disc list-inside space-y-2">
+              <li>
+                Implemented UI designs from Figma into responsive and functional
+                code
+              </li>
+              <li>
+                Collaborated with the backend team to consume APIs and integrate
+                data into the frontend application
+              </li>
+              <li>Fixed minor bugs to improve user experience</li>
+              <li>
+                Worked with the team to ensure alignment between design and
+                final output, while contributing to application development
               </li>
             </ul>
           </motion.div>

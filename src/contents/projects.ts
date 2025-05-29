@@ -3,7 +3,8 @@ import { Project } from "@/types";
 export const projects: Project[] = [
   {
     title: "Marketflow",
-    description: "Simple E-commerce Web App",
+    description:
+      "A simple E-commerce Web App currently under active development, built to showcase practical application of React.js, Hono, Prisma, and PostgreSQL.",
     technologies: [
       "React.js",
       "TypeScript",
@@ -25,7 +26,7 @@ export const projects: Project[] = [
   {
     title: "JobKu",
     description:
-      "Job Tracking Web App with Next.js, TypeScript, and React Query",
+      "A web application designed to help users track their job applications seamlessly, built with Next.js, TypeScript, and React Query.",
     technologies: [
       "Next.js",
       "TypeScript",
@@ -50,7 +51,7 @@ export const projects: Project[] = [
   {
     title: "Car Rental Website",
     description:
-      "An elegant and user-friendly car rental website created using Bootstrap, React.js, and Redux.",
+      "An elegant and user-friendly car rental website, built to showcase practical application of Bootstrap, React.js, and Redux.",
     technologies: ["React.js", "Bootstrap", "Redux"],
     githubLink: "https://github.com/fathurrahman20/car-rental",
     demoLink: "https://binar-car-rental-k1.vercel.app/",
@@ -58,7 +59,8 @@ export const projects: Project[] = [
   },
   {
     title: "GameVerse",
-    description: "A RAWG.io-inspired App with React, TypeScript, and Chakra UI",
+    description:
+      "A game discovery platform inspired by RAWG.io, offering a dynamic user experience with React, TypeScript, Chakra UI, and React Query.",
     technologies: [
       "React.js",
       "TypeScript",
