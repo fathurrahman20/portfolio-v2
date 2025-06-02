@@ -29,7 +29,7 @@ export default function Education() {
             Bachelor's Degree in Software Engineering
           </h3>
           <p className="text-primary mb-2">
-            Bina Sarana Informatika University • 2024
+            Bina Sarana Informatika University
           </p>
         </motion.div>
       </motion.div>
@@ -45,7 +45,7 @@ export default function Education() {
           <h3 className="text-xl font-semibold mb-2">
             Vocational High School in Software Engineering
           </h3>
-          <p className="text-primary mb-2">SMK Plus Pagelaran • 2019</p>
+          <p className="text-primary mb-2">SMK Plus Pagelaran</p>
         </motion.div>
       </motion.div>
     </motion.section>
