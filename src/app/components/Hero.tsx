@@ -50,7 +50,7 @@ export default function Hero() {
             className="text-xl md:text-2xl text-gray-600 dark:text-gray-300 mb-8"
             {...fadeInUp}
             transition={{ delay: 0.4 }}>
-            Frontend Web Developer | Full Stack Developer Enthusiast
+            Frontend Web Developer | Full Stack Development Enthusiasts
           </motion.p>
           <motion.div
             className="flex justify-center space-x-4 mb-8"
