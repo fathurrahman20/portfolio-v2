@@ -26,8 +26,7 @@ export default function About() {
         <p className="text-lg text-secondary max-w-3xl mx-auto text-center">
           I&apos;m a passionate Frontend Web Developer with expertise in
           building modern web applications. With a strong foundation in frontend
-          technologies, I create seamless user experiences and robust client or
-          server-side solutions.
+          technologies, I create seamless user experiences and robust client-side solutions.
         </p>
         {/* <p className="text-lg text-secondary max-w-3xl mx-auto text-center">
           I&apos;m a passionate Full Stack Developer with expertise in building modern web applications.
