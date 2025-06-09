@@ -37,10 +37,10 @@ export const blogs: Blog[] = [
             slug: 'deploying-nextjs-applications-on-vercel',
         },
         {
-            title: 'Building a RESTful API with Node.js and Express',
-            excerpt: 'Learn how to create a RESTful API using Node.js and Express.',
+            title: 'Building a RESTful API with Bun and Hono',
+            excerpt: 'Learn how to create a RESTful API using Bun and Hono.',
             date: '2024-02-20',
             readTime: '10 min read',
-            slug: 'building-a-restful-api-with-nodejs-and-express',
+            slug: 'building-a-restful-api-with-bun-and-hono',
         },
   ];
